@@ -1,2 +1,0 @@
-# pulmobalance
-Static site
